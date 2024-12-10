@@ -4,5 +4,4 @@ langchain-core
 langchain-community
 langchain_groq
 pandas
-json
 os
