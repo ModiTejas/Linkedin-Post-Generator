@@ -88,4 +88,4 @@ def get_unified_tags(posts_with_metadata):
 
 
 if __name__ == "__main__":
-    process_posts("data/raw_post.json", "data/processed_posts.json")
+    process_posts("raw_post.json", "processed_posts.json")
